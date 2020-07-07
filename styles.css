@@ -1,0 +1,39 @@
+.container {
+  margin-bottom: 100px;
+}
+.nav-bg {
+  background-color: white;
+}
+.button-class {
+  margin-bottom: 20px;
+}
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+  padding: 10px;
+}
+.cate-1 {
+  text-align: center;
+}
+.cate-border {
+  width: 100px;
+  height: 8px;
+  background-color: orange;
+  border-radius: 4px;
+}
+.item-2 {
+  box-shadow: 5px 5px 10px lightgray;
+  padding: 50px;
+  margin: 15px;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+.item-1 {
+  box-shadow: 5px 5px 10px lightgray;
+  padding: 50px;
+  margin: 15px;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+  margin-top: 170px;
+}
